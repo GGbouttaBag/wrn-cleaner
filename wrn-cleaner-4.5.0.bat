@@ -1,6 +1,6 @@
 REM =============================
 REM GlockBaby's Quick PC Cleaner ♛
-REM A maintenance tool that can automatically or manually clean up your Windows machine in a simple and reliable way.
+REM A tool to help clean your PC in a quick and safe manor.
 REM Version: 1.0
 REM Discord : https://discord.gg/QtRRhpZg
 REM Copyright by GlockBaby (c) 2023
@@ -20,7 +20,7 @@ set appname=GlockBaby's Quick
 set appvers=4.5.0
 set appstat=Stable
 set dev=GlockBaby
-set desc=A quick thourough tool to clean your PC. Discord - https://discord.gg/QtRRhpZg
+set desc=A quick precise tool to clean your PC. Discord - https://discord.gg/QtRRhpZg
 set uicolor=a
 set infouicolor=b
 set erruicolor=c
