@@ -1,17 +1,14 @@
 REM =============================
-REM WRN Cleaner - https://github.com/warengonzaga/wrn-cleaner
+REM GlockBaby's Cleaner ♛
 REM A maintenance tool that can automatically or manually clean up your Windows machine in a simple and reliable way.
-REM Version: 4.5.0
-REM Github: https://github.com/warengonzaga/wrn-cleaner
-REM Licensed under GNU General Public License v3: https://opensource.org/licenses/GPL-3.0
-REM Copyright (c) 2022 Waren Gonzaga
+REM Version: 1.0
+REM Discord : https://discord.gg/QtRRhpZg
+REM Copyright by GlockBaby (c) 2023
 REM 
-REM Twitter: @warengonzaga
-REM Github: @warengonzaga
-REM Website: warengonzaga.com
+REM Discord: GlockBaby#3900
 REM 
 REM Donate or Support!
-REM https://warengonzaga.com/donate
+REM https://discord.gg/QtRRhpZg
 REM =============================
 
 cls
