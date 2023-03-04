@@ -16,10 +16,10 @@ cls
 REM =============================
 REM Setup Variables
 REM =============================
-set appname=WRN
+set appname=GB Quick PC Cleaner
 set appvers=4.5.0
 set appstat=Stable
-set dev=Waren Gonzaga
+set dev=GlockBaby
 set desc=A maintenance tool that can automatically or manually clean up your Windows machine in a simple and reliable way.
 set uicolor=a
 set infouicolor=b
