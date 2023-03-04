@@ -17,7 +17,7 @@ REM =============================
 REM Setup Variables
 REM =============================
 set appname=GlockBaby's Quick
-set appvers=4.5.0
+set appvers=1.0
 set appstat=Stable
 set dev=GlockBaby
 set desc=A quick precise tool to clean your PC. Discord - https://discord.gg/QtRRhpZg
