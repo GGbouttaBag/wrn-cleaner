@@ -26,7 +26,7 @@ set infouicolor=b
 set erruicolor=c
 set cliN=%appname% PC Cleaner$
 set divider======================================
-title %appname% PC Cleaner %appvers% - %appstat%
+title %appname% PC Cleaner https://discord.gg/QtRRhpZg%appvers% - %appstat%
 
 @echo off
 color %infouicolor%
