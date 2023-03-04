@@ -24,7 +24,7 @@ set desc=A maintenance tool that can automatically or manually clean up your Win
 set uicolor=a
 set infouicolor=b
 set erruicolor=c
-set cliN=%appname%PC Cleaner$
+set cliN=%appname% PC Cleaner$
 set divider======================================
 title %appname% PC Cleaner %appvers% - %appstat%
 
