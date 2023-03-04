@@ -16,7 +16,7 @@ cls
 REM =============================
 REM Setup Variables
 REM =============================
-set appname=GB Quick PC Cleaner
+set appname=GB Quick
 set appvers=4.5.0
 set appstat=Stable
 set dev=GlockBaby
