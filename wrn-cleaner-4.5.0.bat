@@ -16,17 +16,18 @@ cls
 REM =============================
 REM Setup Variables
 REM =============================
-set appname=GB Quick
+set appname=GlockBaby's Quick
 set appvers=4.5.0
 set appstat=Stable
 set dev=GlockBaby
 set desc=A maintenance tool that can automatically or manually clean up your Windows machine in a simple and reliable way.
+set desc=https://discord.gg/QtRRhpZg
 set uicolor=a
 set infouicolor=b
 set erruicolor=c
 set cliN=%appname% PC Cleaner$
 set divider======================================
-title %appname% PC Cleaner https://discord.gg/QtRRhpZg%appvers% - %appstat%
+title %appname% PC Cleaner%appvers% - %appstat%
 
 @echo off
 color %infouicolor%
